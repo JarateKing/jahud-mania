@@ -2,4 +2,4 @@
 
 Skin for osu!mania in development
 
-fonts used: jahud, jahud+20
+fonts used: jahud, Product Sans
