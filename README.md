@@ -10,6 +10,7 @@ Fonts used: jahud, Product Sans, Open Sans
 * Full vertical playfield -- judgement line is the bottom end of the screen
 * Stobing notes -- makes faster scroll speeds more readable on lower refresh rates
 * Rainbow holdnotes -- makes telling if you're holding a holdnote easier
+* Responsive feedback -- instant visual feedback when pressing keys
 
 ## Install
 1. Navigate to osu folder
