@@ -2,6 +2,8 @@
 
 A skin designed to perform well in mania
 
+![ingame screenshot](docs/screen1.png "screenshot 1")
+
 Fonts used: jahud, Product Sans, Open Sans
 
 ## Features
