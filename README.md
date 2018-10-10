@@ -15,9 +15,10 @@ Fonts used: jahud, Product Sans, Open Sans
 * Responsive feedback -- instant visual feedback when pressing keys
 
 ## Install
-1. Navigate to osu folder
-2. Go to skins folder
-3. Copy over the JAHUD folder
+1. Download zip file
+2. Navigate to osu folder
+3. Go to skins folder
+4. Extract the JAHUD folder
 
 ## Notes
 Only skinned for osu!mania
